@@ -1,4 +1,4 @@
-AutoMISP
+<b>AutoMISP</b>
 
 a da_667 endeavor
 
@@ -49,6 +49,16 @@ infde6 for the documentation on how to install MISP on ubuntu 16.04 (https://git
 Hurricane Labs - for giving me the time to work on this.
 
 you. for running this :D
+
+<b>Instructions</b>
+<ul><li>git clone https://github.com/da667/AutoMISP/</li>
+<li>cd AutoMISP</li>
+<li>chmod a+x auto-MISP-ubuntu.sh</li>
+<li><i>edit passwords in lines 11,12 on the shell script</i></li>
+<li>./auto-MISP-ubuntu.sh</li>
+<li>shutdown -r now</li>
+<li><i>need to reboot server in order to enable server </i></li>
+</ul>
 
 Licensing: This project released under MIT Licensing.
 
